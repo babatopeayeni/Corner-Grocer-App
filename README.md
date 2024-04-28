@@ -1,5 +1,5 @@
 <h1>Module 8 journal</h1>
-<h3>Summarize the project and what problem it was solving</h3>
+<h3>Summarize the project and what problem it was solving.</h3>
 <p>This project aimed to create a simple console-based application for tracking the frequency of grocery items. It solved the problem of efficiently managing and analyzing the frequency of various grocery items, which could be useful for inventory management or analyzing consumer preferences.</p>
 <h3>What did you do particularly well?</h3>
 <p></p>I believe I implemented the core functionality of the program efficiently, such as reading from a file, tracking item frequencies, and providing various options for users to interact with the data. Additionally, the use of object-oriented programming principles helped in organizing the code and making it modular.</p>
