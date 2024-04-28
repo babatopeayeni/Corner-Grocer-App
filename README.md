@@ -1,6 +1,10 @@
 <h1>Module 8 journal</h1>
 <h3>Summarize the project and what problem it was solving.</h3>
 <p>This project aimed to create a simple console-based application for tracking the frequency of grocery items. It solved the problem of efficiently managing and analyzing the frequency of various grocery items, which could be useful for inventory management or analyzing consumer preferences.</p>
+
+![image](https://github.com/babatopeayeni/Corner-Grocer-App/assets/133984506/0beff9ae-71b9-4819-bcdd-d8ead6517f01)
+![image](https://github.com/babatopeayeni/Corner-Grocer-App/assets/133984506/87b8e5cc-db90-48a3-84b3-2827f81d478e)
+
 <h3>What did you do particularly well?</h3>
 <p></p>I believe I implemented the core functionality of the program efficiently, such as reading from a file, tracking item frequencies, and providing various options for users to interact with the data. Additionally, the use of object-oriented programming principles helped in organizing the code and making it modular.</p>
 <h3>Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?</h3>
