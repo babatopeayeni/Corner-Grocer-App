@@ -43,4 +43,4 @@ The **Corner Grocer App** was a valuable learning experience in **file handling,
 ---
 
 This project showcases my ability to develop **functional, efficient, and user-friendly applications** in Python. 🎯  
-Would you like help with **adding a database or a GUI to improve the project?** 🚀😊
+
